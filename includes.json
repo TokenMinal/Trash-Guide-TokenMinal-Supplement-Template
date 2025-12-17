@@ -1,4 +1,5 @@
-[
+{
+"sonarr": [
   {
     "id": "sonarr-v4-quality-profile-anime-web",
     "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-anime-web.yml",
@@ -10,3 +11,4 @@
     "hidden": false
   }
 ]
+}
