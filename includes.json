@@ -1,0 +1,7 @@
+[
+  {
+    "id": "sonarr-v4-quality-profile-anime",
+    "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-anime.yml",
+    "hidden": false
+  }
+]
