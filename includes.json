@@ -1,7 +1,12 @@
 [
   {
-    "id": "sonarr-v4-quality-profile-anime",
-    "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-anime.yml",
+    "id": "sonarr-v4-quality-profile-anime-web",
+    "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-anime-web.yml",
+    "hidden": false
+  },
+  {
+    "id": "sonarr-v4-custom-formats-anime-web",
+    "template": "sonarr/includes/custom-formats/sonarr-v4-custom-formats-anime-web.yml",
     "hidden": false
   }
 ]
