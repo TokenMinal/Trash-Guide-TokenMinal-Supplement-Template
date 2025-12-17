@@ -1,0 +1,8 @@
+{
+  "sonarr": [
+      {
+        "template": "sonarr/templates/anime-sonarr-v4-web.yml",
+        "id": "anime-sonarr-v4-web"
+      }
+  ]
+}
