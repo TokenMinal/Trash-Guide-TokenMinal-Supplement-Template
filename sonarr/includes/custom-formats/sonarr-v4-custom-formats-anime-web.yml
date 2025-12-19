@@ -50,3 +50,12 @@ custom_formats:
       - d84935abd3f8556dcd51d4f27e22d0a6 # WEB Tier 03
     assign_scores_to:
       - name: Web-1080p - Anime
+
+  - trash_ids:
+      # custom stuff
+        - trash_ids:
+          - ea046366dc6845b69ff7338632ba5b5e # repack+v2
+          - d7a5cc9eeeb84325829edaa95597cde9 # repack2+v3
+          - f3ccad4373354f77915a37ba87e4da03 # repack3+v4
+    assign_scores_to:
+      - name: Web-1080p - Anime
