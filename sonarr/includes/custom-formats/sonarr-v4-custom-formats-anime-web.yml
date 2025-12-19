@@ -21,9 +21,9 @@ custom_formats:
       - 9c14d194486c4014d422adc64092d794 # Dubs Only
       - d2d7b8a9d39413da5f44054080e028a3 # v0
       - 273bd326df95955e1b6c26527d1df89b # v1
-      #- 228b8ee9aa0a609463efca874524a6b8 # v2
-      #- 0e5833d3af2cc5fa96a0c29cd4477feb # v3
-      #- 4fc15eeb8f2f9a749f918217d4234ad8 # v4
+      - 228b8ee9aa0a609463efca874524a6b8 # v2
+      - 0e5833d3af2cc5fa96a0c29cd4477feb # v3
+      - 4fc15eeb8f2f9a749f918217d4234ad8 # v4
       - 15a05bc7c1a36e2b57fd628f8977e2fc # AV1
       - 07a32f77690263bb9fda1842db7e273f # VOSTFR
 
