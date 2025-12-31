@@ -2,14 +2,6 @@ custom_formats:
   # Scores from TRaSH json
   - trash_ids:
       # Anime CF/Scoring
-      - 949c16fe0a8147f50ba82cc2df9411c9 # Anime BD Tier 01 (Top SeaDex Muxers)
-      - ed7f1e315e000aef424a58517fa48727 # Anime BD Tier 02 (SeaDex Muxers)
-      - 096e406c92baa713da4a72d88030b815 # Anime BD Tier 03 (SeaDex Muxers)
-      - 30feba9da3030c5ed1e0f7d610bcadc4 # Anime BD Tier 04 (SeaDex Muxers)
-      - 545a76b14ddc349b8b185a6344e28b04 # Anime BD Tier 05 (Remuxes)
-      - 25d2afecab632b1582eaf03b63055f72 # Anime BD Tier 06 (FanSubs)
-      - 0329044e3d9137b08502a9f84a7e58db # Anime BD Tier 07 (P2P/Scene)
-      - c81bbfb47fed3d5a3ad027d077f889de # Anime BD Tier 08 (Mini Encodes)
       - e0014372773c8f0e1bef8824f00c7dc4 # Anime Web Tier 01 (Muxers)
       - 19180499de5ef2b84b6ec59aae444696 # Anime Web Tier 02 (Top FanSubs)
       - c27f2ae6a4e82373b0f1da094e2489ad # Anime Web Tier 03 (Official Subs)
@@ -39,10 +31,6 @@ custom_formats:
       - 4c67ff059210182b59cdd41697b8cb08 # Bilibili
       - 570b03b3145a25011bf073274a407259 # HIDIVE
       - a370d974bc7b80374de1d9ba7519760b # ABEMA
-
-      # Main Guide Remux Tier Scoring
-      - 9965a052eb87b0d10313b1cea89eb451 # Remux Tier 01
-      - 8a1d0c3d7497e741736761a1da866a2e # Remux Tier 02
 
       # Main Guide WEB Tier Scoring
       - e6258996055b9fbab7e9cb2f75819294 # WEB Tier 01
