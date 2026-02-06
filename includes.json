@@ -9,6 +9,16 @@
     "id": "sonarr-v4-custom-formats-anime-web",
     "template": "sonarr/includes/custom-formats/sonarr-v4-custom-formats-anime-web.yml",
     "hidden": false
+  },
+  {
+    "id": "sonarr-v4-quality-profile-web-2160p-DV-only",
+    "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-web-2160p-DV-only.yml",
+    "hidden": false
+  },
+  {
+    "id": "sonarr-v4-custom-formats-web-2160p-DV-only",
+    "template": "sonarr/includes/custom-formats/sonarr-v4-custom-formats-web-2160p-DV-only.yml",
+    "hidden": false
   }
 ]
 }
