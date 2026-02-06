@@ -17,7 +17,7 @@ sonarr:
           - 9b27ab6498ec0f31a3353992e19434ca # DV (w/o HDR fallback)
         assign_scores_to:
           - name: WEB-2160p - DV
-            score: 2500
+            score: 500
 
       # Optional
       - trash_ids:
