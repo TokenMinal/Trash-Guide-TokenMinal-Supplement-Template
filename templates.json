@@ -3,6 +3,10 @@
       {
         "template": "sonarr/templates/anime-sonarr-v4-web.yml",
         "id": "anime-sonarr-v4-web"
+      },
+      {
+        "template": "sonarr/templates/web-2160p-v4-DV-only.yml",
+        "id": "web-2160p-v4-DV-only"
       }
   ]
 }
