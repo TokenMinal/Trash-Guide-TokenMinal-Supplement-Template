@@ -43,12 +43,3 @@ sonarr:
           - 4fc15eeb8f2f9a749f918217d4234ad8 # v4
         assign_scores_to:
           - name: Web-1080p - Anime # Comment entire section and the one below if the default Trash-Guide behaviour is desired.
-            score: 0 
-
-
-      - trash_ids:
-          - ea046366dc6845b69ff7338632ba5b5e # repack+v2
-          - d7a5cc9eeeb84325829edaa95597cde9 # repack2+v3
-          - f3ccad4373354f77915a37ba87e4da03 # repack3+v4         
-        assign_scores_to:
-          - name: Web-1080p - Anime # Comment entire section and the one above if the default Trash-Guide behaviour is desired.
